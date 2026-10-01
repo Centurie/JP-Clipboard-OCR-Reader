@@ -29,3 +29,9 @@ For rAnimePopUp.zip
 Extraction -> load -> Hover while clicking on the subtitles being displayed after r39-asbplayer -> read the translation
 
 *Ensure to reload the page after setting up all the extensions first or you maybe have to reload after* 
+
+
+<img width="1082" height="500" alt="image" src="https://github.com/user-attachments/assets/7a9eb008-7de7-40ce-9ae5-cbe0d1f333af" />
+
+<img width="846" height="667" alt="image" src="https://github.com/user-attachments/assets/62163d2b-fe95-4072-8806-6658aabfd15e" />
+
