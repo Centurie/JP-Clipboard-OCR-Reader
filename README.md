@@ -7,6 +7,18 @@ Normally, you extract it and open the browser extension page, then go to develop
 (Because the program is not readily available as an extension itself, you can download it and use it within a minute)
 
 
-OUTLOOK as provided.
+OUTLOOK for r1039.zip as provided.
 Make sure to reload your webpage after setting up the extension.
 <img width="391" height="682" alt="image" src="https://github.com/user-attachments/assets/eae26751-c0c5-4c37-814c-2212006814f5" />
+
+
+For r39-asbplayer.zip:
+step 1: extract
+step 2: <img width="1706" height="351" alt="image" src="https://github.com/user-attachments/assets/0742b6a1-5ebb-4349-bb25-3e0dd9c5b1f0" />
+allow developer mode, hit "load unpacked" and load the folder(s)
+step 3: get the subtitles files from Jimaku.cc for the 'Anime' and episode no.
+step 4: play
+
+For rAnimePopUp.zip
+Extraction -> load -> Hover while clicking on the subtitles being displayed after r39-asbplayer -> read the translation
+*Ensure to reload the page after setting up all the extensions first or you maybe have to reload after* 
