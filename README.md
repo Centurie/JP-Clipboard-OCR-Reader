@@ -15,7 +15,8 @@ Make sure to reload your webpage after setting up the extension.
 For r39-asbplayer.zip:
 
 
-<img width="372" height="245" alt="image" src="https://github.com/user-attachments/assets/f4a81ad9-b1bf-496d-a5bb-4de2b99e4065" />
+<img width="422" height="423" alt="image" src="https://github.com/user-attachments/assets/b8c2f372-a3c0-4bed-b3e8-85828c0fa7d0" />
+
 
 
 Step 1: Extract
